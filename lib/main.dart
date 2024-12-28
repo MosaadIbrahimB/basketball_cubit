@@ -1,7 +1,4 @@
-import 'package:basket_ball_samy/cubit/counter_bloc.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
-
 import 'screen/home_screen.dart';
 
 void main() {
